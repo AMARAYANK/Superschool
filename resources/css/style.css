@@ -428,7 +428,7 @@ i {
   font-family: Inter-Medium, "Times New Roman", Times, serif;
 }
 
-.form-style-7 input[type="text"]:focus,
+/* .form-style-7 input[type="text"]:focus,
 .form-style-7 input[type="date"]:focus,
 .form-style-7 input[type="datetime"]:focus,
 .form-style-7 input[type="email"]:focus,
@@ -438,7 +438,9 @@ i {
 .form-style-7 input[type="url"]:focus,
 .form-style-7 input[type="password"]:focus,
 .form-style-7 textarea:focus,
-.form-style-7 select:focus {}
+.form-style-7 select:focus {
+  
+} */
 
 /* .form-style-7 li>span {
   background-color: #333333;
